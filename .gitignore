@@ -1,0 +1,6 @@
+*.o
+Makefile
+openglwindow.app/
+.qmake.stash
+moc_openglwindow.cpp
+moc_predefs.h
