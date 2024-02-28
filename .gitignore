@@ -1,6 +1,6 @@
 *.o
 Makefile
-openglwindow.app/
+openglwindow.app/Contents/MacOS/openglwindow
 .qmake.stash
 moc_openglwindow.cpp
 moc_predefs.h
