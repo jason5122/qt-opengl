@@ -1,5 +1,3 @@
-#undef QT_NO_OPENGL
-
 #include "openglwindow.h"
 
 #include <QGuiApplication>
